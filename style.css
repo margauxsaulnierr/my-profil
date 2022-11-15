@@ -1,0 +1,28 @@
+/* colors and fonts */ 
+
+body {
+  background: #DFD3C3;
+  color: black;
+  font-family: "Nunito",sans-serif;
+  font-size: 22px;
+} 
+
+.container{
+     margin: 5% auto;
+     margin-top: 10%;
+     display: flex;
+     justify-content: center;
+     align-items: stretch;
+     background: 3px #D0B8A8;
+     border-radius: 30px ;
+     box-shadow: 6px 6px 6px #3C4048;
+
+}
+
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: #967E76;
+}
+
+
